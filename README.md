@@ -8,8 +8,8 @@
 ## Description
 
 Prototype built in 24 hours using Lovable and Google Cloud for [MITxOpenAI Hack-Nation Global](https://hack-nation.ai/):
-   - Try [GRIT](https://preview--grit-preinsurance.lovable.app/)
-   - Watch 60-sec [demo video](https://drive.google.com/file/d/19i3dSE6TcBiJi3k7GW5UsjtoulMT2fvo/view?usp=drive_link)
+   - Try [GRIT](https://grit-preinsurance.lovable.app)
+   - Watch 60-sec [demo video](https://drive.google.com/file/d/19i3dSE6TcBiJi3k7GW5UsjtoulMT2fvo/view?usp=drive_link) [Outdated as of 12/2025]
 
 **Results**:
    - Placed [3rd (VC track) out of >2800](https://www.linkedin.com/posts/shohail-ismail_hacknation-mit-openai-activity-7394305524978118656-z1nX?utm_source=share&utm_medium=member_desktop&rcm=ACoAACFbMOkB922BZ9kyXvbVxTlEYv4HhtSH-Iw) participants
