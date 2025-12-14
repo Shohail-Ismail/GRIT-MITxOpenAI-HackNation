@@ -25,7 +25,7 @@
   
 >NOTE: Demo is of prototype submitted to hackathon on 11/2025 - currently it is outdated and does not show the more-advanced functionality listed below.
 
-**[Try GRIT]()**
+**[Try GRIT](https://grit-preinsurance.lovable.app)**
 
 ---
 
