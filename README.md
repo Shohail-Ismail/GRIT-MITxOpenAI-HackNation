@@ -1,25 +1,35 @@
 # Geographical Risk Insurance Tool (GRIT)
 
+* [Summary](#summary)
 * [Description](#description)
-* [Running the app](#running-the-app)
 * [Guide](#guide)
 * [Future developments](#future-development)
-
-## Description
-
-Prototype built in 24 hours using Lovable and Google Cloud for [MITxOpenAI Hack-Nation Global](https://hack-nation.ai/):
-   - Try [GRIT](https://grit-preinsurance.lovable.app)
-   - Watch 60-sec [demo video](https://drive.google.com/file/d/19i3dSE6TcBiJi3k7GW5UsjtoulMT2fvo/view?usp=drive_link) [Outdated as of 12/2025]
-
-**Results**:
-   - Placed [3rd (VC track) out of >2800](https://www.linkedin.com/posts/shohail-ismail_hacknation-mit-openai-activity-7394305524978118656-z1nX?utm_source=share&utm_medium=member_desktop&rcm=ACoAACFbMOkB922BZ9kyXvbVxTlEYv4HhtSH-Iw) participants
-   - Selected as 1 of 15 ventures to receive mentorship from Stanford, Harvard, and Microsoft to develop and scale idea (ongoing)
 
 ---
 
 ![GRIT Homepage](public/home.jpg)
 
 ---
+
+## Summary
+
+**GRIT is a statistical, climate-oriented risk assessment tool for insurers and reinsurers, emphasising explainability and accuracy along with aggregation of big data for real-time statistical predictions.**
+
+- Prototype was built in 24 hours using Lovable and Google Cloud for [MITxOpenAI Hack-Nation Global](https://hack-nation.ai/).
+
+- Placed 3rd (VC track) out of >2800 participants, with more details viewable on [Hack-Nation page]() and [LinkedIn](https://www.linkedin.com/posts/shohail-ismail_hacknation-mit-openai-activity-7394305524978118656-z1nX?utm_source=share&utm_medium=member_desktop&rcm=ACoAACFbMOkB922BZ9kyXvbVxTlEYv4HhtSH-Iw).
+
+<br>
+
+- Watch 60-sec [demo video](https://drive.google.com/file/d/19i3dSE6TcBiJi3k7GW5UsjtoulMT2fvo/view?usp=drive_link)
+  
+>NOTE: Demo is of prototype submitted to hackathon on 11/2025 - currently it is outdated and does not show the more-advanced functionality listed below.
+
+**[Try GRIT]()**
+
+---
+
+## Description
 
 GRIT is a real-time climate risk assessment tool for insurance, reinsurance, and catastrophe-modelling teams. It delivers sub-10m geospatial analysis with feeds from over 15 satellites, <5 second response time from all APIs, and over 100 parameters for payout scenarios, providing reliable, explainable, data-driven insurance estimates.
 
@@ -42,37 +52,6 @@ Designed to answer the core underwriting question: *What are the climate-related
 * **Charts**: Recharts for risk comparison
 * **Formulas**: react-katex for LaTeX rendering of calculation methodologies
 * **Data sources**: Open-Meteo API, Copernicus Sentinel Hub
-
----
-
-## Running the app
-
-### Requirements
-
-* Node.js 18+
-* npm
-
-### Environment setup (auto-configured in production)
-
-```
-VITE_SUPABASE_URL=<>
-VITE_SUPABASE_PUBLISHABLE_KEY=<>
-VITE_SUPABASE_PROJECT_ID=<>
-```
-
-### Satellite analysis API
-
-```
-COPERNICUS_CLIENT_ID=
-COPERNICUS_CLIENT_SECRET=
-```
-
-### Run
-
-```bash
-npm install
-npm run dev
-```
 
 ---
 
