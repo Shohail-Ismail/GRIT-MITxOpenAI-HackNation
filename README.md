@@ -25,6 +25,7 @@
 <div align="center">
   
 ### <ins>**[Try GRIT](https://grit-preinsurance.lovable.app)**</ins>
+(Some features may still be WIP)
 
 </div>
 
