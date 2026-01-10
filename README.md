@@ -2,9 +2,10 @@
 
 * [Summary](#summary)
 * [Description](#description)
+<!--
 * [Guide](#guide)
 * [Future developments](#future-development)
-
+-->
 ---
 
 ![GRIT Homepage](public/home.jpg)
