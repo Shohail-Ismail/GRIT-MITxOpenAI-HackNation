@@ -12,8 +12,7 @@
 ---
 
 ## Summary
-
-**GRIT is a statistical, climate-oriented risk assessment tool for insurers and reinsurers, emphasising explainability and accuracy along with aggregation of big data for real-time statistical predictions.**
+GRIT is a statistical, climate-oriented risk assessment tool for insurers and reinsurers, emphasising explainability and accuracy along with aggregation of big data for real-time statistical predictions.
 
 - Prototype was built in 24 hours using Lovable and Google Cloud for 3rd MIT x OpenAI Global Hack-Nation hackathon.
 
@@ -45,7 +44,7 @@ Designed to answer the core underwriting question: *What are the climate-related
 * 10m resolution using Sentinel-1/2 data via Copernicus API
 * Exponential severity scaling (`riskFactor^1.2`) for loss estimation
 * Serverless auto-scaling via Supabase Edge Functions + Lovable Cloud
-
+<!--
 ### Technology stack
 
 * **Frontend**: React 18, TypeScript, Vite, Tailwind CSS
@@ -116,3 +115,4 @@ Designed to answer the core underwriting question: *What are the climate-related
    * Direct GDAL-backed satellite band processing
    * Time-series hazard trends (5-10 year lookback)
    * Enhanced authentication and user analysis history
+--> 
