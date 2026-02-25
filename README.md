@@ -8,7 +8,7 @@
 -->
 ---
 
-![GRIT Homepage](public/home.jpg)
+[![GRIT Homepage](public/home.jpg)](https://grit-preinsurance.lovable.app)
 
 ---
 
