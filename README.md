@@ -13,7 +13,7 @@
 ---
 
 ## Summary
-GRIT is a statistical, climate-oriented risk assessment tool for insurers and reinsurers, emphasising explainability and accuracy along with aggregation of big data for real-time statistical predictions.
+GRIT is a statistical, climate-oriented risk assessment tool for insurers and reinsurers, emphasising explainability and accuracy along with aggregation of big data for real-time predictions.
 
 - Prototype was built in 24 hours using Lovable and Google Cloud for 3rd MIT x OpenAI Global Hack-Nation hackathon.
 
